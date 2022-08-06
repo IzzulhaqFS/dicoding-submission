@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyStoryApp</string>
+    <string name="register_title">REGISTER</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="have_account_question">Already have account?</string>
+    <string name="login_title">LOGIN</string>
+    <string name="not_have_account_question">Don\'t have account?</string>
+    <string name="img_photo_content_description">Story\'s photo</string>
+    <string name="add_story">Add story</string>
+    <string name="logout">Logout</string>
+    <string name="description">Description</string>
+    <string name="image_story_description">image of the story</string>
+    <string name="preview_photo_content_description">preview photo image</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="add_new_story">Add New Story</string>
+    <string name="maps_view">Maps View</string>
+    <string name="retry">Retry</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="list_view">List View</string>
+</resources>
