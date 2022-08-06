@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyGitHubUser2</string>
+    <string name="img_content_description">Tampilan avatar dari user GitHub</string>
+    <string name="user_name">FirstName LastName</string>
+    <string name="user_username">Username</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="company">Company</string>
+    <string name="repository">Repository</string>
+    <string name="company_name">Company Name</string>
+    <string name="location">Location</string>
+    <string name="location_name">Location Name</string>
+    <string name="repository_number">10</string>
+    <string name="following_number">100</string>
+    <string name="follower_number">100</string>
+    <string name="follower_tab_name">Followers</string>
+    <string name="following_tab_name">Following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="favorite">favorite</string>
+    <string name="settings">settings</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
